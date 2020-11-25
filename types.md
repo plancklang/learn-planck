@@ -16,5 +16,5 @@ a user to make an indefinite number of their own types.
 ## Built in
 float and double are not built in but will have definitions in the standard library, and will have literal syntaxes
 
-## Singing
+## Signing
 All built-in types are signed (except for bool, which can only be 0 or 1).
