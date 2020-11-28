@@ -19,7 +19,7 @@ int age = 10;
 age++;
 
 char grade;
-garde = "A";
+grade = "A";
 
 int count;
 count = 6;
