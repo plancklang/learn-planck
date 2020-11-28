@@ -15,13 +15,9 @@ In general in Planck, declarations are only of the form `[type] [name] ...` when
 
 ## Examples
 ```c
-char[] full;
-
-char[] first = "Jake";
-char[] last = "Roggenbuck";
-
-full = last + " " + first;
-
 int age = 10;
 age++;
+
+char grade;
+garde = "A";
 ```
