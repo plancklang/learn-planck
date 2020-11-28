@@ -20,4 +20,7 @@ age++;
 
 char grade;
 garde = "A";
+
+int count;
+count = 6;
 ```
